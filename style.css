@@ -1,0 +1,26 @@
+body{
+    background-image:url(laPiedra_logopage-2.jpg);
+}
+#header{
+
+}
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pading{
+    padding-top: 6.7%;
+}
+.links{
+    margin-top: 6%;
+    text-align: center;
+}
+.padding{
+    
+    transition: transform .2s; /* Animation */
+    width: 80px;
+}
+.padding:hover{
+    transform: scale(1.5);
+}
